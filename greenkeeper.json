@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "tests/fixtures/mock-app/package.json"
+      ]
+    }
+  }
+}
