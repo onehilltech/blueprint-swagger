@@ -1,6 +1,8 @@
 blueprint-swagger
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/onehilltech/blueprint-swagger.svg)](https://greenkeeper.io/)
+
 A Blueprint.js module for Swagger UI
 
 [![npm version](https://img.shields.io/npm/v/@onehilltech/blueprint-swagger.svg)](https://www.npmjs.com/package/@onehilltech/blueprint-swagger)
